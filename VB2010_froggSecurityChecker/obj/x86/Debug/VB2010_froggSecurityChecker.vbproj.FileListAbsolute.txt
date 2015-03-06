@@ -1,0 +1,9 @@
+C:\Users\remy\Documents\GitHub\VB2010_froggSecurityChecker\VB2010_froggSecurityChecker\bin\Debug\VB2010_froggSecurityChecker.exe
+C:\Users\remy\Documents\GitHub\VB2010_froggSecurityChecker\VB2010_froggSecurityChecker\bin\Debug\VB2010_froggSecurityChecker.pdb
+C:\Users\remy\Documents\GitHub\VB2010_froggSecurityChecker\VB2010_froggSecurityChecker\bin\Debug\VB2010_froggSecurityChecker.xml
+C:\Users\remy\Documents\GitHub\VB2010_froggSecurityChecker\VB2010_froggSecurityChecker\obj\x86\Debug\FroggSecurityChecker.FroggSecurityChecker.resources
+C:\Users\remy\Documents\GitHub\VB2010_froggSecurityChecker\VB2010_froggSecurityChecker\obj\x86\Debug\FroggSecurityChecker.Resources.resources
+C:\Users\remy\Documents\GitHub\VB2010_froggSecurityChecker\VB2010_froggSecurityChecker\obj\x86\Debug\VB2010_froggSecurityChecker.vbproj.GenerateResource.Cache
+C:\Users\remy\Documents\GitHub\VB2010_froggSecurityChecker\VB2010_froggSecurityChecker\obj\x86\Debug\VB2010_froggSecurityChecker.exe
+C:\Users\remy\Documents\GitHub\VB2010_froggSecurityChecker\VB2010_froggSecurityChecker\obj\x86\Debug\VB2010_froggSecurityChecker.xml
+C:\Users\remy\Documents\GitHub\VB2010_froggSecurityChecker\VB2010_froggSecurityChecker\obj\x86\Debug\VB2010_froggSecurityChecker.pdb
