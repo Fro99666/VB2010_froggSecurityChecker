@@ -36,7 +36,7 @@ Partial Class FroggAbout
         '
         Me.TxtAbout1.AutoSize = True
         Me.TxtAbout1.Font = New System.Drawing.Font("Calibri", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TxtAbout1.Location = New System.Drawing.Point(0, 157)
+        Me.TxtAbout1.Location = New System.Drawing.Point(0, 105)
         Me.TxtAbout1.Name = "TxtAbout1"
         Me.TxtAbout1.Size = New System.Drawing.Size(147, 15)
         Me.TxtAbout1.TabIndex = 0
@@ -62,7 +62,7 @@ Partial Class FroggAbout
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Calibri", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(264, 3)
+        Me.Label3.Location = New System.Drawing.Point(166, 2)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(82, 15)
         Me.Label3.TabIndex = 4
@@ -91,10 +91,11 @@ Partial Class FroggAbout
         '
         'PictureBox1
         '
-        Me.PictureBox1.Location = New System.Drawing.Point(183, 22)
+        Me.PictureBox1.Image = Global.FroggSecurityChecker.My.Resources.Resources.avatar
+        Me.PictureBox1.Location = New System.Drawing.Point(153, 24)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(166, 157)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox1.Size = New System.Drawing.Size(96, 96)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
         Me.PictureBox1.TabIndex = 1
         Me.PictureBox1.TabStop = False
         '
@@ -103,13 +104,14 @@ Partial Class FroggAbout
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Window
-        Me.ClientSize = New System.Drawing.Size(349, 178)
+        Me.ClientSize = New System.Drawing.Size(251, 121)
+        Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.LinkLabel1)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.TxtAbout1)
-        Me.Controls.Add(Me.PictureBox1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.MinimizeBox = False
